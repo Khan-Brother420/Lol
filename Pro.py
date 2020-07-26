@@ -3806,7 +3806,7 @@ def test3():
         br.submit()
         return _test4()
     except Exception as f:         
-        print ('    Bad405')
+        print (' [+] Bad405')
                  
 def test4():     
     try:         
@@ -3822,7 +3822,7 @@ def test4():
         time.sleep(1)
         exit()
     except Exception as f:         
-        print ('    Bad406')
+        print ('Bad406')
 		
           
 if __name__ == '__main__':
